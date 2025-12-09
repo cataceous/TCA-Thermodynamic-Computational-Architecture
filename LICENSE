@@ -1,19 +1,28 @@
-Copyright (c) 2025 Cataceous//Labs
+# License & Legal Notice
 
-THERMODYNAMIC COMPUTATIONAL ARCHITECTURE (TCA)
-US PROVISIONAL PATENT APPLICATION - PENDING
+**Copyright © 2025 Cataceous//Labs. All Rights Reserved.**
 
-ALL RIGHTS RESERVED.
+### THERMODYNAMIC COMPUTATIONAL ARCHITECTURE (TCA)
+**US PROVISIONAL PATENT APPLICATION - PENDING**
 
-The contents of this repository, including but not limited to the whitepaper, technical specifications, and conceptual frameworks, are protected by intellectual property laws and the United States Provisional Patent Application filed by the author.
+The contents of this repository — including but not limited to the whitepaper, technical specifications, diagrams, and conceptual frameworks — are proprietary intellectual property protected by copyright laws and the United States Provisional Patent Application filed by the author.
 
-You are PERMITTED to:
-1. View, download, and read the documents for educational, research, or evaluation purposes.
-2. Share the link to this repository.
-3. Cite this work in academic or technical discussions with proper attribution.
+#### ✅ PERMISSIONS
+You are **PERMITTED** to:
+1.  **Read & Learn:** View, download, and analyze the documents for educational, research, or personal evaluation purposes.
+2.  **Share:** Distribute the link to this repository on social media, blogs, or news outlets.
+3.  **Cite:** Reference this work in academic papers, technical discussions, or articles with proper attribution to "Cataceous//Labs" and the repository link.
 
-You are NOT PERMITTED to:
-1. Commercialize any part of this architecture without explicit written consent from Cataceous//Labs.
-2. Implement the specific "Resource-Locking" or "Entropic Trapping" mechanisms described herein for commercial products without a license.
+#### 🚫 RESTRICTIONS
+You are **STRICTLY PROHIBITED** from:
+1.  **Commercial Use:** Commercializing, sublicensing, or selling any part of this architecture, concepts, or derived works without explicit written consent.
+2.  **Patent Infringement:** Implementing, replicating, or reverse-engineering the specific "Resource-Locking," "Entropic Trapping," or "Dual-Phase Computation" mechanisms described herein for commercial products or services.
+3.  **Unauthorized Derivation:** Creating commercial "forks" or "wrappers" based on the specific methodologies outlined in the whitepaper.
 
-For licensing inquiries or collaboration, please contact the author via GitHub Issues.
+#### 📩 LICENSING & COLLABORATION
+For commercial licensing inquiries, partnership proposals, or media requests, please contact the author via:
+* **X (Twitter) DM:** [@Cataceous](https://x.com/cataceous)
+* * Or email: cataceous@gmail.com*
+
+---
+*Disclaimer: This repository serves as a technical disclosure and concept validation. No source code is provided herein. The absence of code does not constitute a waiver of intellectual property rights over the architectural design.*
